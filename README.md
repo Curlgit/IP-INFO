@@ -1,7 +1,7 @@
 # IP INFORMATION GATHERING
 
-**Developer: UG ALOK**
-
+**Developer: 1 UG ALOK**
+**Developer** 2 **Curlgit**
 A clean, professional terminal tool for **Android Termux** (and any system with Python 3.8+) that shows your network addresses and detailed information about any IPv4 or IPv6 address.
 
 Built with the Python standard library only. Nothing is installed besides Python, and nothing is ever saved to disk.
