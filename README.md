@@ -37,7 +37,7 @@ Illustrative layout only - values below are placeholders, not real lookup result
 ║            IP INFORMATION GATHERING              ║
 ║                                                  ║
 ╠══════════════════════════════════════════════════╣
-║               DEVELOPER: UG ALOK                 ║
+║               DEV Curlgit          ║
 ╚══════════════════════════════════════════════════╝
 
 ╔══════════════════════════════════════════════════╗
@@ -73,8 +73,8 @@ Illustrative layout only - values below are placeholders, not real lookup result
 
 ```bash
 pkg update && pkg install python git
-git clone <your-repository-url> IP-INFORMATION-GATHERING
-cd IP-INFORMATION-GATHERING
+git clone https://github.com/Curlgit/IP-INFO.git
+cd IP-INFO
 bash install.sh
 ```
 
