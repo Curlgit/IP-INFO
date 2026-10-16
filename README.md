@@ -1,7 +1,7 @@
 # IP INFORMATION GATHERING
 
 **Developer: 1 UG ALOK**
-**Developer** 2 **Curlgit**
+**Developer** 2 **Gg**
 A clean, professional terminal tool for **Android Termux** (and any system with Python 3.8+) that shows your network addresses and detailed information about any IPv4 or IPv6 address.
 
 Built with the Python standard library only. Nothing is installed besides Python, and nothing is ever saved to disk.
@@ -37,7 +37,7 @@ Illustrative layout only - values below are placeholders, not real lookup result
 ║            IP INFORMATION GATHERING              ║
 ║                                                  ║
 ╠══════════════════════════════════════════════════╣
-║               DEV Curlgit          ║
+║               DEV Gg          ║
 ╚══════════════════════════════════════════════════╝
 
 ╔══════════════════════════════════════════════════╗
@@ -73,7 +73,7 @@ Illustrative layout only - values below are placeholders, not real lookup result
 
 ```bash
 pkg update && pkg install python git
-git clone https://github.com/Curlgit/IP-INFO.git
+git clone https://github.com/Gg/IP-INFO.git
 cd IP-INFO
 bash install.sh
 ```
